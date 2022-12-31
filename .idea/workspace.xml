@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="233fa8e5-c1d6-4805-9132-f4f08e2fd777" name="Changes" comment="commit this new file in the branch two remote repo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filecreatedinbranchone.java" beforeDir="false" afterPath="$PROJECT_DIR$/filecreatedinbranchone.java" afterDir="false" />
+    <list default="true" id="ed26e6fe-801a-4451-a8a1-f43c96f66f3b" name="Changes" comment="commit this new file in the branch two remote repo" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,30 +14,31 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2JfEpWvk9oIhsioN89WpubP1U1V" />
+  <component name="ProjectId" id="2JfXKwAYIIo1723vYMg1e4OxLPM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="233fa8e5-c1d6-4805-9132-f4f08e2fd777" name="Changes" comment="" />
-      <created>1672460924950</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1672460924950</updated>
-    </task>
     <task id="LOCAL-00001" summary="commit this new file in the branch two remote repo">
-      <created>1672462520185</created>
+      <created>1672464618850</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1672462520185</updated>
+      <updated>1672464618850</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed26e6fe-801a-4451-a8a1-f43c96f66f3b" name="Changes" comment="" />
+      <created>1672470050937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672470050937</updated>
     </task>
     <task id="LOCAL-00002" summary="commit this new file in the branch two remote repo">
       <created>1672471482060</created>
